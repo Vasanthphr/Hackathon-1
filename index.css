@@ -1,0 +1,49 @@
+
+.btn{
+    border: whitesmoke solid 1px;
+    background-color: rgba(201, 172, 11, 0.856);
+}
+.btn1{
+    background-color: rgb(207, 207, 207);
+}
+.btn1:hover{
+    background-color: whitesmoke;
+}
+.card-body {
+    background-image: radial-gradient(circle 400px at 6.8% 8.3%, rgb(227, 200, 27) 0%, rgba(255, 244, 234, 1) 100.2%);
+}
+
+.nav_img {
+    border-radius: 5px;
+}
+
+.pic {
+    margin-top: 90px;
+}
+.zoom {
+    transition: transform .5s;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    transform: scale(1.2);
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form-control {
+    width: 300px;
+}
+.navbar{
+    background-color: rgb(236, 224, 49);
+}
+.row{
+    text-align: center;
+    background-color: rgb(162, 219, 223);
+}
+h4{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background-color: rgb(230, 219, 204);
+}
